@@ -5905,8 +5905,8 @@ input[type="submit"] {
 }
 
 .speaker-item .speaker-thumb {
-    mask: url(./img/team-shape.png) no-repeat center center;
-    -webkit-mask: url(./img/team-shape.png) no-repeat center center;
+    mask: url('../img/team-shape.png') no-repeat center center;
+    -webkit-mask: url(../img/team-shape.png) no-repeat center center;
     mask-size: cover;
     -webkit-mask-size: cover;
     margin-bottom: 30px;
